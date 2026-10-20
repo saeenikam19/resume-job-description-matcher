@@ -1,9 +1,7 @@
 # Resume and Job Description Matcher
 
 An NLP-based application that compares a resume with a job description and estimates how closely their textual content matches.
-
 ## Overview
-
 Finding relevant job opportunities can be challenging when resumes and job descriptions contain different terminology. This project uses text processing and cosine similarity to measure the similarity between resume content and job requirements.
 
 The tool is intended to help candidates identify relevant skills and keywords to review before applying.
